@@ -1,49 +1,48 @@
-# Product Costing Dashboard | Manufacturing BOM Analysis
+# Agriculture-dashboard
 
-## Overview
+Power BI dashboard analyzing rainfall and agricultural productivity
 
-This project demonstrates a Product Costing Dashboard developed in Microsoft Excel for manufacturing and engineering products.
+# Agriculture Performance Dashboard
 
-The dashboard provides visibility into product cost structure, Bill of Materials (BOM), assembly hierarchy, and cost breakdown across multiple cost elements.
+## 📊 Project Overview
 
-The objective is to support pricing decisions, profitability analysis, and cost control activities through a dynamic and interactive dashboard.
+This project analyzes rainfall patterns and their impact on agricultural productivity using Power BI.
 
----
-<img width="1624" height="1359" alt="image" src="https://github.com/user-attachments/assets/3b9dca57-7206-4358-962d-0fde5c6b26c5" />
+## 🔍 Key Features
 
-## Features
+* Rainfall trend analysis
+* State-wise production comparison
+* Correlation between rainfall and production
+* Seasonal rainfall analysis
+* Geographic visualization
 
-### Product Selection
+## 💡 Insights
 
-- Dynamic Product Code Selection
-- Auto-populated Product Details
-- Revision Tracking
-- Unit of Measure Visibility
+* Rainfall shows moderate correlation with production
+* Some states perform better despite lower rainfall
+* Seasonal patterns strongly influence productivity
 
-### Cost Analysis
+## 🚀 Tools Used
 
-- Material Cost
-- Manufacturing Cost
-- Subcontracting Cost
-- Outsourcing Cost
-- Labour Cost
-- Overhead Cost
-- Total Product Cost
-- Target Selling Price
+* Power BI
+* DAX
+* Data Visualization
+* Business Analytics
 
-### BOM Analysis
+## 📁 Files
 
-- Main Assembly Count
-- Sub-Assembly Visibility
-- Raw Material Tracking
-- Item-Level Cost Breakdown
-- Quantity Analysis
-- Unit Cost Analysis
+* Agriculture\_Dashboard.pbix
+* Dashboard.pdf
 
 
-- Total Items
-- Total Assemblies
-- Material Cost
-- Total Product Cost
-- Cost Contribution %
-- Dynamic Filtering
+
+\## Dashboard Preview
+
+Dashboard screenshot included in repository.
+
+
+
+\## Author
+
+Bala Mahender
+
